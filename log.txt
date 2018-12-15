@@ -1,0 +1,107 @@
+
+---------------------------------------------------
+
+Song: All I Want for Christmas Is You
+Preview: null
+
+---------------------------------------------------
+
+Artist: Mariah Carey
+Album: Merry Christmas
+
+---------------------------------------------------
+
+Title: Arthur
+Rotten Tomatoes Rating: 25%
+Release Year: 2011
+Country: USA
+Language: English
+IMDB Rating: 5.7
+Plot: A drunken playboy stands to lose a wealthy inheritance when he falls for a woman his family doesn't like.
+
+---------------------------------------------------
+
+Actors: Russell Brand, Helen Mirren, Greta Gerwig, Jennifer Garner
+
+concert-this acdc
+undefined
+concert-this logic
+undefined
+concert-this katy
+undefined
+concert-this snoop dogg
+
+
+    Venue: Snoop Dogg
+    Location: Honolulu, CA
+    Event Date: December 27, 2018
+            
+movie-this cars
+
+
+    Title: Cars
+    Released: 2006
+    IMDB Rating: 7.1
+    Rotten Tomatos Rating: 74%
+    Country: USA
+    Language: English, Italian, Japanese, Yiddish
+    Plot: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+    Actors: Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+            
+concert-this acdc
+undefined
+concert-this beyonce
+undefined
+concert-this
+
+movie-this batman begins
+
+
+    Title: Batman Begins
+    Released: 2005
+    IMDB Rating: 8.3
+    Rotten Tomatos Rating: 84%
+    Country: USA, UK
+    Language: English, Urdu, Mandarin
+    Plot: After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.
+    Actors: Christian Bale, Michael Caine, Liam Neeson, Katie Holmes
+            
+concert-this tenacious d
+
+
+    Venue: Pinkpop Festival (June 8-10)
+    Location: Landgraaf, 
+    Event Date: June 9, 2019
+            
+spotify-this-song lights please
+
+
+    Artist: J. Cole
+    Track: Lights Please
+    Preview: null
+    Album: Cole World: The Sideline Story
+            
+spotify-this-song the autograph
+
+
+    Artist: Autograph
+    Track: Turn up the Radio
+    Preview: https://p.scdn.co/mp3-preview/ab56c7569472c9bf16982649892182397602ae85?cid=7ef92084e12c405681099501356961e9
+    Album: Sign In Please
+            
+spotify-this-song lights please
+
+
+    Artist: J. Cole
+    Track: Lights Please
+    Preview: null
+    Album: Cole World: The Sideline Story
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7ef92084e12c405681099501356961e9
+    Album: The Hits--Chapter One
+            
